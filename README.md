@@ -53,7 +53,7 @@ constraints for embedded robotics hardware (Jetson Xavier NX target:
 
 ## Results Chart
 
-![Robustness Results](results/final_chart_professional.png)
+![Robustness Results](final_chart_professional.png)
 
 ---
 
