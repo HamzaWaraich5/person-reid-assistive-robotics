@@ -9,7 +9,7 @@ effect of adversarial fine-tuning from additional optimization alone.
 
 Built on Market-1501 | ResNet-50 + BNNeck | PyTorch
 
-**Full paper (PDF):** [link to your Zenodo DOI once published]
+**Full paper (PDF):** (https://doi.org/10.5281/zenodo.23537461)
 
 ---
 
